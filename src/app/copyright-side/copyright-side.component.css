@@ -1,0 +1,11 @@
+.copyRightFooter {
+    background-color: #1a252f;
+    height: 80px;
+    padding: 10px;
+}
+
+.copyRightFooter div{
+    text-align: center;
+    color: #f0f8ff;
+    padding-top: 10px;
+}
